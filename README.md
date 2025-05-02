@@ -20,5 +20,5 @@ cd STAT5243_FinalProject_Team13
 * Keito Taketomi: Introduction and Data Acquisition & Preparation
 * Cassidy Gorsky: Exploratory data analysis
 * Nan Xiao:  Feature Engineering and Preprocessing
-* Shenghong Wu: Model Development
-* Obiora Ifeanyichukwu Okeke: Model Comparison & Selection
+* Shenghong Wu: Model Development & Comparison & Selection part1 (Logistic Regression Random Forest, XGBoost)
+* Obiora Ifeanyichukwu Okeke:  Model Development & Comparison & Selection part2(KNN, GB, Catboost)
