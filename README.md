@@ -3,8 +3,8 @@
 Data: https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators 
 
 # Contributions: 
-* Keito Taketomi:
-* Nan Xiao:
-* Shenghong Wu:
+* Keito Taketomi: Introduction and Data Acquisition & Preparation
 * Cassidy Gorsky: Exploratory data analysis
-* Obiora Ifeanyichukwu Okeke:
+* Nan Xiao:  Feature Engineering and Preprocessing
+* Shenghong Wu: Model Development
+* Obiora Ifeanyichukwu Okeke: Model Comparison & Selection
